@@ -1,7 +1,8 @@
-<form action="action_page.php">
+<form action="action_page.php" style="background-color:powderblue;">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>New user Register for DevOps Learning - Year 2024</h1>
+    <h2 style="color:orange;">Looking forward to Welcome all new users</h2>
+    <p style="color:red;"><b>Please fill in this form to create an account.</b></p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1 style="color:green;"> Thankyou, Happy Learning </h1>
 
   
 </form>
